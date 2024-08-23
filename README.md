@@ -48,7 +48,6 @@ The following technologies and tools were used in this project:
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
 [Сredit-scoring (1).ipynb ](https://github.com/Akdaula/credit_scoring/blob/main/%D0%A1redit-scoring%20(1).ipynb)
 
 
